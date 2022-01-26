@@ -7,6 +7,7 @@ public class User {
 	public void gitTest()
 	{
 		System.out.println("user 1");
+		System.out.println("user 2");
 	}
 
 }
